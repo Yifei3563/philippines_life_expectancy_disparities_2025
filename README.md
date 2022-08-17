@@ -8,9 +8,7 @@ Rscript -e "rmarkdown::render('SCRIPT_NAME.Rmd')"
 
 Data preparation (data_prep) list:
 
-a_XX_prepare_XX_data               - prepare county-level monthly broad cause
-
-a_XX_prepare_XX_data           -
+a_XX_prepare_XX_data               - XX
 
 Data exploration (data_exploration) list:
 
