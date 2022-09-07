@@ -25,7 +25,7 @@ d_XX_process_XX_model - process XX model
 
 e_XX_plot_XX_model - XX
 
-### Other stuff
+## Other stuff
 
 note: please run create_folder_structure.R first to create folders which may not be there when first loaded.
 
