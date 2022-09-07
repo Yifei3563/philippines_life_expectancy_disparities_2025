@@ -9,13 +9,9 @@ PROJECT DESCRIPTION HERE
 
 a_XX_prepare_XX_data - prepare XX data
 
-<<<<<<< HEAD
 ### Data exploration (data_exploration) list:
 
 b_XX_explore_XX_data - explore XX data
-=======
-a_XX_prepare_XX_data               - XX
->>>>>>> 0fc68130e1a6b96958d43084c7a588b01e414fd0
 
 ### Model running (models) list:
 
