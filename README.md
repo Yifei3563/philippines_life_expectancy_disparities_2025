@@ -1,9 +1,20 @@
-# TITLE HERE
-Work in progress by Robbie M Parks
+# TITLE
 
-PROJECT DESCRIPTION HERE
+Work in progress by NAMES. TBD. YEAR
 
-## Code (in progress)
+## Project description
+
+This dataset and code is used for the paper
+
+LINK
+
+## 1. Data
+
+Folder containing data used in analysis
+
+## 2. Code
+
+note: please run create_folder_structure.R first to create folders which may not be there when first loaded
 
 ### Data preparation (data_prep) list:
 
@@ -25,9 +36,30 @@ d_XX_process_XX_model - process XX model
 
 e_XX_plot_XX_model - XX
 
-## Other stuff
+### Functions
 
-note: please run create_folder_structure.R first to create folders which may not be there when first loaded.
+Folder containing functions
 
-note: to run an R Markdown file from command line, run\
-Rscript -e "rmarkdown::render('SCRIPT_NAME.Rmd')"
+## 3. Output
+
+models - Saved model output
+
+model_output - csv of model results
+
+## 4. Tables
+
+Tables and supplementary tables
+
+## 5. Figures
+
+All figures for manuscript and supplement
+
+## Directory structure
+
+``` md
+TBC
+```
+
+## Data Availability
+
+TBC
