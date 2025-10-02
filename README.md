@@ -1,7 +1,6 @@
-# TITLE
-Expected Life Expectancy in Philippines (2025)
+# Expected Life Expectancy in Philippines
 
-Work in progress by Yifei Yu, supervised by Dr. Robbie Parks. 2025
+Yifei Yu, supervised by Dr. Robbie Parks. 2025
 
 ## Project description
 
