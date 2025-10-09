@@ -20,6 +20,12 @@ note: please run create_folder_structure.R first to create folders which may not
 
 a_XX_prepare_XX_data - prepare XX data
 
+a_01_prepare_mortality_data - prepare mortality data
+
+a_02_prepare_Philippines_data - prepare Philippines data
+
+
+
 ### Data exploration (data_exploration) list:
 
 b_XX_explore_XX_data - explore XX data
