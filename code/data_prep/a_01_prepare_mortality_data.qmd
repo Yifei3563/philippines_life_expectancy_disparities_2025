@@ -1,12 +1,25 @@
 ---
-title: "Process mortality data"
+title: "a_01_prepare_mortality_data"
 output: html_document
 ---
+
 ## First step to load packages and file locations etc.
 ```{r include=FALSE}
 rm(list=ls())
 project.folder = paste0(print(here::here()),'/')
 source(paste0(project.folder,'create_folder_structure.R'))
 source(paste0(functions.folder,'script_initiate.R'))
+```
+
+#loading the necessary packages
+```{r}
+library(dplyr)
+library(readr)
+```
+
+# load the mortality data rds
+```{r}
+mortality = 
+  readRDS("/Users/fifi/Desktop/SPARK/philippines 2025/mortality_summary_by_age.rds")
 ```
 
