@@ -18,6 +18,6 @@ library(readr)
 
 # load the mortality data rds
 ```{r}
-mortality = 
+philippines = 
   readRDS("/Users/fifi/Desktop/SPARK/philippines 2025/Philippines_summary.rds")
 ```
